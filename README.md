@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sitotpal Biswas</h1>
 <h3 align="center">An aspiring Business Analyst passionate about turning data into decisions</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/sitotpal02/sitotpal02/main/business-analyst.gif" alt="Business Analyst at Work" width="500"/>
 </p>
 
