@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sitotpal Biswas  
 ### 💼 An Aspiring Business Analyst | Operations & Analytics Intern @ Eye-Conic
 
-<p align="right">
-  <img src="business-analyst.gif" alt="Business Analyst at Work" width="500"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sitotpal02/sitotpal02/main/business-analyst.gif.gif" alt="Business Analyst at Work" width="500"/>
 </p>
 ---
 
